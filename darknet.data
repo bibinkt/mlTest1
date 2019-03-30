@@ -1,0 +1,5 @@
+classes = 2
+train  = xyz_train.txt
+valid  = xyz_test.txt
+names = classes.names
+backup = backup
