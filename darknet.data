@@ -1,4 +1,4 @@
-classes = 2
+classes = 3
 train  = xyz_train.txt
 valid  = xyz_test.txt
 names = classes.names
