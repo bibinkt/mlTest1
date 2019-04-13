@@ -3,7 +3,7 @@ import subprocess
 import os
 
 runMode = "train"
-classes = ["Handgun","Rifle","Shotgun","Knife","Sword","Weapon","Screwdriver","Flashlight","Hammer","Torch","Person"]
+classes = ["Handgun","Rifle","Shotgun"]
 
 with open('class-descriptions-boxable.csv', mode='r') as infile:
     reader = csv.reader(infile)
